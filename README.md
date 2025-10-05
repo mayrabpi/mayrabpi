@@ -23,11 +23,6 @@ Soy una profesional orientada al desarrollo de soluciones tecnológicas eficient
   Aplicación para la gestión de inventario, caducidades y control de stock en pequeños comercios.  
   Desarrollada con **React**, **Flask** y **MongoDB** bajo metodología **Scrum**.
 
-- **Gestión de revista digital**  
-  Proyecto académico basado en la organización de una edición de revista utilizando Scrum.  
-  Incluye planificación de sprints, definición de historias de usuario y análisis de resultados.
-
----
 
 ### Formación
 
