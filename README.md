@@ -15,6 +15,10 @@ Soy una profesional orientada al desarrollo de soluciones tecnológicas eficient
 - Control de versiones: Git, GitHub  
 - Otros: HTML5, CSS3, Tailwind CSS
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,python,flask,mongodb,html,css,git,github,vscode" />
+</div>
+
 ---
 
 ### Proyectos destacados
